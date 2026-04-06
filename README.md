@@ -1,27 +1,38 @@
-# Kauã Patrik (@Kauuuh)
+<div align="center">
+  <h1>Kauã Patrik</h1>
+  <p><strong>Estudante de programação</strong> — começando agora e registrando minha evolução aqui no GitHub.</p>
 
-Iniciante em programação — usando o GitHub pra guardar estudos e criar meus primeiros projetos.
+  <p>
+    <a href="https://github.com/Kauuuh">github.com/Kauuuh</a>
+  </p>
+</div>
 
 <p align="center">
-  <img src="https://play.pokemonshowdown.com/sprites/ani/mimikyu.gif" alt="Mimikyu" width="140" />
+  <img src="https://play.pokemonshowdown.com/sprites/gen5ani/mimikyu.gif" alt="Mimikyu (pixel art)" width="120" />
 </p>
 
-## 👨‍💻 Sobre mim
-- Começando agora no mundo da programação
-- Aprendendo na prática, um passo por vez
-- Aberto a dicas e feedback 🙂
+---
 
-## 📚 Atualmente estudando
+## 👨‍💻 Sobre
+- Iniciante em programação, construindo base com calma.
+- Uso este perfil para guardar estudos, exercícios e meus primeiros projetos.
+
+## 📚 Aprendendo agora
 - Lógica de programação
-- Git e GitHub
+- Git & GitHub (commits, branches e organização de projetos)
 - Minha primeira linguagem/stack (em breve)
 
 ## 🛠️ Ferramentas
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Ferramentas" />
   </a>
 </p>
+
+## 🚀 Próximos passos
+- Publicar meus primeiros repositórios
+- Fazer um projeto simples e bem documentado
+- Melhorar consistência de commits e organização
 
 ## 📫 Contato
 - GitHub: https://github.com/Kauuuh
