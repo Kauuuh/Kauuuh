@@ -29,10 +29,5 @@
   </a>
 </p>
 
-## 🚀 Próximos passos
-- Publicar meus primeiros repositórios
-- Fazer um projeto simples e bem documentado
-- Melhorar consistência de commits e organização
-
 ## 📫 Contato
 - GitHub: https://github.com/Kauuuh
