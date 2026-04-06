@@ -28,6 +28,3 @@
     <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Ferramentas" />
   </a>
 </p>
-
-## 📫 Contato
-- GitHub: https://github.com/Kauuuh
