@@ -1,10 +1,6 @@
 <div align="center">
   <h1>Kauã Patrik</h1>
   <p><strong>Estudante de programação</strong> — começando agora e registrando minha evolução aqui no GitHub.</p>
-
-  <p>
-    <a href="https://github.com/Kauuuh">github.com/Kauuuh</a>
-  </p>
 </div>
 
 <p align="center">
