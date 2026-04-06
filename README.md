@@ -3,7 +3,7 @@
 Iniciante em programação — usando o GitHub pra guardar estudos e criar meus primeiros projetos.
 
 <p align="center">
-  <img src="https://play.pokemonshowdown.com/sprites/ani/urshifu.gif" alt="Urshifu" width="140" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/mimikyu.gif" alt="Mimikyu" width="140" />
 </p>
 
 ## 👨‍💻 Sobre mim
