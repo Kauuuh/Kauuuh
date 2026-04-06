@@ -1,16 +1,27 @@
-## Hi there 👋
+# Kauã Patrik (@Kauuuh)
 
-<!--
-**Kauuuh/Kauuuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Iniciante em programação — usando o GitHub pra guardar estudos e criar meus primeiros projetos.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/urshifu.gif" alt="Urshifu" width="140" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mim
+- Começando agora no mundo da programação
+- Aprendendo na prática, um passo por vez
+- Aberto a dicas e feedback 🙂
+
+## 📚 Atualmente estudando
+- Lógica de programação
+- Git e GitHub
+- Minha primeira linguagem/stack (em breve)
+
+## 🛠️ Ferramentas
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Skills" />
+  </a>
+</p>
+
+## 📫 Contato
+- GitHub: https://github.com/Kauuuh
